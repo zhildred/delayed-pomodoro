@@ -1,11 +1,10 @@
 {
-  "name": "boilerplate-react-webpack",
-  "version": "0.2.2",
-  "description": "A webpack React starter",
-  "repository": "https://github.com/dev-academy-challenges/boilerplate-react-webpack.git",
+  "name": "delayed-pomodoro",
+  "version": "0.1",
+  "description": "A pomodoro webapp",
+  "repository": "https://github.com/zhildred/delayed-pomodoro",
   "main": "server/index.js",
-  "author": "EDA",
-  "license": "ISC",
+  "author": "Zac Hildred",
   "scripts": {
     "dev": "run-p dev:client dev:server",
     "dev:client": "webpack --watch",
