@@ -1,8 +1,12 @@
 import React from 'react'
+import Timer from './Timer'
 
 const App = () => {
   return (
-    <h1>React development has begun!</h1>
+    <div className="app">
+      <h1>Pomodoro</h1>
+      <Timer timerDuration={25} />
+    </div>
   )
 }
 

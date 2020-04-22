@@ -1,6 +1,6 @@
 {
   "name": "delayed-pomodoro",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A pomodoro webapp",
   "repository": "https://github.com/zhildred/delayed-pomodoro",
   "main": "server/index.js",
